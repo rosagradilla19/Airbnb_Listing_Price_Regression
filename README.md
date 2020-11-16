@@ -19,4 +19,7 @@ This dataset has columns describing:
 - city
 - price: price of listing per night
 
+This project aimed to train a regression model to predict price of listing per night given some features.
+The model trained and tuned was an Extreme Gradient Boosting regressor.
+
 Data: https://www.kaggle.com/kritikseth/us-airbnb-open-data
